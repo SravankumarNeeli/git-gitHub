@@ -1,1 +1,2 @@
 This is my first project file
+I am a java developer and i am developing a gaming project
